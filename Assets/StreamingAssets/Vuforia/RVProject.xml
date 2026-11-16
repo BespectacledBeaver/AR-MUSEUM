@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="quiz" size="15.000000 20.025000" />
+    <ImageTarget name="egyptian-mummy" size="15.000000 18.398661" />
+    <ImageTarget name="stele" size="15.000000 15.000000" />
+    <ImageTarget name="astrolabe" size="15.000000 20.714285" />
+  </Tracking>
+</QCARConfig>

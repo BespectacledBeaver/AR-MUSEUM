@@ -1,0 +1,8 @@
+Model Information:
+* title:	Aset-iri-khet-es mummy sarcophagus & cartonnage
+* source:	https://sketchfab.com/3d-models/aset-iri-khet-es-mummy-sarcophagus-cartonnage-9ad64e4cc1de4b719a669ef7caf6e329
+* author:	Virtual Museums of Małopolska (https://sketchfab.com/WirtualneMuzeaMalopolski)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
