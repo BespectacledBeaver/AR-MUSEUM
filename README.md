@@ -17,7 +17,7 @@ astrolabe and a stele, as well as a mummy-themed target.
 - The APK, you can find it in this link (because I forgot to sign in Unity, and I am not re-installing it just for that):
   [`Minimal_AR_Museum-Project_RV_SID_2024-25.apk`](https://drive.google.com/file/d/10jMUPW9Lj88M0-jSNbrdx_QXE0yG61iq/view?usp=sharing)
 - The target images in [`Images to scan using phone camera/`](./Images%20to%20scan%20using%20phone%20camera/).
-- Download the [`Vuforia Enginge Package`](https://drive.google.com/file/d/12s5vnxn84GWRAn5AVJJDzxOCPL8Q1ASN/view?usp=sharing) to the [`Packages/`](./Packages/) folder.
+- If you want to test out the project in Unity, download the [`Vuforia Enginge Package`](https://drive.google.com/file/d/12s5vnxn84GWRAn5AVJJDzxOCPL8Q1ASN/view?usp=sharing) to the [`Packages/`](./Packages/) folder.
 
 ### Installation
 
